@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amanda
 - 👀 I’m interested in starting a new career in tech
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on beginner projects
 
 <!---
