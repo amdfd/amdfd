@@ -8,7 +8,6 @@
   <a href="https://www.linkedin.com/in/amdfd/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amdfd&theme=panda&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amdfd&theme=panda&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
-    <img align="right" height="180px" width="180px" alt="amanda-gif" src="https://i.imgur.com/pWWy51m.gif">
 </div>
   
 ##
