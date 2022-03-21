@@ -1,5 +1,5 @@
-👋 Hi, I’m Amanda <br>
-👀 I’m interested in starting a new career in tech <br>
+👩 Hi, I’m Amanda <br>
+👩‍💻 I’m interested in starting a new career in tech <br>
 🌱 I’m currently learning HTML, CSS and JavaScript <br>
 
 ##
