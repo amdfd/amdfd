@@ -1,4 +1,5 @@
 <img align="right" src="https://i.ibb.co/ZfHQX9x/test2.png" alt="test2" border="0">
+<a href="https://github.com/amdfd/amdfd-ptbr/blob/main/README.md">🇧🇷 EM PORTUGUÊS</a>
 
 <h1>About me:</h1>
 👋 Hi, I’m Amanda <br>
