@@ -6,6 +6,7 @@
 🗺️ I'm from São Paulo, Brazil<br>
 👩‍💻 I’m interested in starting a new career in tech <br>
 🌱 I’m currently learning HTML, CSS, JavaScript and Java <br>
+🎓 I've recently graduated from a coding bootcamp at Generation Brasil as a Full Stack Web Developer <br>
 
 
 <h1>How it started:</h1>
