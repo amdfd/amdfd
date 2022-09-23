@@ -16,7 +16,7 @@
 <h1>My plans:</h1>
 ☑️ Become a full time student;<br>
 ☑️ Start my portfolio<br>
-🟦 Finish at least three projects to showcase my abilities;<br>
+☑️ Finish at least three projects to showcase my abilities;<br>
 🟦 Get my first job as a developer.<br>  
 
 ##
