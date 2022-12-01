@@ -5,8 +5,8 @@
 👋 Hi, I’m Amanda <br>
 🗺️ I'm from São Paulo, Brazil<br>
 👩‍💻 I’m interested in starting a new career in tech <br>
-🌱 I’m currently learning HTML, CSS, JavaScript and Java <br>
-🎓 I've recently graduated from a coding bootcamp at Generation Brasil as a Full Stack Web Developer <br>
+🌱 I’m currently learning Java, JavaScript and React <br>
+🎓 I've graduated from a coding bootcamp at Generation Brasil as a Full Stack Web Developer, and participated in a 15-day Hackathon by Grupo FCâmara <br>
 
 
 <h1>How it started:</h1>
@@ -17,7 +17,11 @@
 ☑️ Become a full time student;<br>
 ☑️ Start my portfolio<br>
 ☑️ Finish at least three projects to showcase my abilities;<br>
-🟦 Get my first job as a developer.<br>  
+🟦 Get my first job as a developer.<br>
+
+<h1>Bootcamp and Hackathon projects</h1>
+📣 <a href="https://github.com/FalaMemoGeneration">Fala Memo (social media website)  </a><br>
+🍊 <a href="https://github.com/squad34-2022">Orange Evolution (online learning platform)  </a>
 
 ##
 <h3 align="left">Languages and Tools:</h3><br>
