@@ -17,7 +17,7 @@
 ☑️ Become a full time student;<br>
 ☑️ Start my portfolio<br>
 ☑️ Finish at least three projects to showcase my abilities;<br>
-🟦 Get my first job as a developer.<br>
+☑️ Get my first job as a developer.<br>
 
 <h1>Bootcamp and Hackathon projects</h1>
 📣 <a href="https://github.com/FalaMemoGeneration">Fala Memo (social media website)  </a><br>
