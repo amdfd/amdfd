@@ -4,20 +4,20 @@
 <h1>About me:</h1>
 👋 Hi, I’m Amanda <br>
 🗺️ I'm from São Paulo, Brazil<br>
-👩‍💻 I’m interested in starting a new career in tech <br>
-🌱 I’m currently learning Java, JavaScript and React <br>
-🎓 I've graduated from a coding bootcamp at Generation Brasil as a Full Stack Web Developer, and participated in a 15-day Hackathon by Grupo FCâmara <br>
+👩‍💻 I’m a frontend developer at Dasa <br>
+🌱 I’m currently studying more about JavaScript, TypeScript and React, and I'm also learning about GraphQL and Jest <br>
+🎓 In the tech field I've graduated from a coding bootcamp at Generation Brasil as a Full Stack Web Developer, and participated in a 15-day Hackathon by Grupo FCâmara. Outside of tech, I hold a Bachelor's in Translation and Interpreting and I also have a postgraduate degree in English Language <br>
 
 
 <h1>How it started:</h1>
-👩‍🏫 I'm an English teacher by trade, but I've always had an interest in technology. When the school I used to work at decided to include programming skills in the syllabus using <b>Apple's Swift Playgrounds</b> as a tool, I had to take the course to become an Apple teacher and this is when I realized I could see myself working as a developer 💻. That is why this year (2022) I have decided to become a full time student to make my career move.
+👩‍🏫 As an English teacher I was presented with the opportunity of becoming an Apple Teacher to start teaching Programming Logic to kids and teens. Two years later I decided to change careers, so I started a self-taught journey, participated in a coding bootcamp and a hackathon where I have developed two projects that allowed me to finally become a frontend developer at Dasa, which is where I work today.
 <br><br>
 
-<h1>My plans:</h1>
-☑️ Become a full time student;<br>
-☑️ Start my portfolio<br>
-☑️ Finish at least three projects to showcase my abilities;<br>
-☑️ Get my first job as a developer.<br>
+<h1>Current plans:</h1>
+☒ Get my first job as a developer<br>
+☐ Finish the React Development course at Alura<br>
+☐ Get accepted into a tech undergrad program<br>
+☐ Get promoted to a level II position as a developer<br>
 
 <h1>Bootcamp and Hackathon projects</h1>
 📣 <a href="https://github.com/FalaMemoGeneration">Fala Memo (social media website)  </a><br>
@@ -30,6 +30,9 @@
 	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+	<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+	<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 	<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
