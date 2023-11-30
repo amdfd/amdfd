@@ -16,7 +16,7 @@
 <h1>Current plans:</h1>
 ☒ Get my first job as a developer<br>
 ☐ Finish the React Development course at Alura<br>
-☐ Get accepted into a tech undergrad program<br>
+☒ Get accepted into a tech graduation program<br>
 ☐ Get promoted to a level II position as a developer<br>
 
 <h1>Bootcamp and Hackathon projects</h1>
