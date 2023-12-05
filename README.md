@@ -4,9 +4,9 @@
 <h1>About me:</h1>
 👋 Hi, I’m Amanda <br>
 🗺️ I'm from São Paulo, Brazil<br>
-👩‍💻 I’m a frontend developer at Dasa <br>
+👩‍💻 I’m a frontend developer <b>currently open to work!</b> <br>
 🌱 I’m currently studying more about JavaScript, TypeScript and React, and I'm also learning about GraphQL and Jest <br>
-🎓 In the tech field I've graduated from a coding bootcamp at Generation Brasil as a Full Stack Web Developer, and participated in a 15-day Hackathon by Grupo FCâmara. Outside of tech, I hold a Bachelor's in Translation and Interpreting and I also have a postgraduate degree in English Language <br>
+🎓 In the tech field I'm starting a Full Stack Development graduation program at FIAP, I've graduated from a coding bootcamp at Generation Brasil as a Full Stack Web Developer, and participated in a 15-day Hackathon by Grupo FCâmara. Outside of tech, I hold a Bachelor's in Translation and Interpreting and I also have a postgraduate degree in English Language <br>
 
 
 <h1>How it started:</h1>
