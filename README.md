@@ -44,4 +44,4 @@
 
 ### Feel free to contact me here or through my socials:
 - [LinkedIn](https://www.linkedin.com/in/amdfd/)
-- [Email](amandaf.dias96@gmail.com)
+- [Email](mailto:amandaf.dias96@gmail.com)
