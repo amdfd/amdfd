@@ -3,7 +3,7 @@
 # About me:
 - 👋 Hi, I’m Amanda
 - 🗺️ I'm from São Paulo, Brazil
-- 👩‍💻 I’m a frontend developer <b>currently open to work!</b>
+- 👩‍💻 I’m a full stack developer <b>currently open to work!</b>
 - 🌱 I’m currently studying more about JavaScript, React, Node.js and Unit Tests
 - 🎓 I'm a student at the Full Stack Development graduation program at FIAP
 
