@@ -3,9 +3,9 @@
 # About me:
 - 👋 Hi, I’m Amanda
 - 🗺️ I'm from São Paulo, Brazil
-- 👩‍💻 I’m working as software developer at Mercado Livre!
-- 🌱 I’m currently studying more about Java, JavaScript, React, Node.js and Unit Tests
-- 🎓 I'm a student at the Full Stack Development graduation program at FIAP
+- 👩‍💻 I’m working as back-end software developer at Mercado Livre!
+- 🌱 I’m currently studying more about Java, Go and Software Architecture
+- 🎓 I have a post-graduate degreee in Full Stack Development at FIAP
 
 <details>
 	<summary>⬇️ How I got into programming</summary>
@@ -19,26 +19,20 @@
 </details>
 
 ## Current goals:
-- [x] Start the Full Stack Development program at FIAP
-- [ ] Design and create my own portfolio website
-- [ ] Work on writing unit tests for my projects
+- [x] Contribute to my first projects in Go
+- [ ] Go back to practicing in Code Wars
+- [ ] Learn more about software architecture 
 
 ## My stacks and tools
 <div display=inline-block>
-	<img alt="Static Badge" src="https://img.shields.io/badge/GIT-9c4f96">
 	<img alt="Static Badge" src="https://img.shields.io/badge/HTML5-ff6355">
 	<img alt="Static Badge" src="https://img.shields.io/badge/CSS3-fba949">
-	<img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-fae442">
 	<img alt="Static Badge" src="https://img.shields.io/badge/TYPESCRIPT-8bd448">
 	<img alt="Static Badge" src="https://img.shields.io/badge/REACT-2aa8f2">
-	<img alt="Static Badge" src="https://img.shields.io/badge/MATERIAL--UI-8bd448">
 	<img alt="Static Badge" src="https://img.shields.io/badge/NODE.JS-fae442">
-	<img alt="Static Badge" src="https://img.shields.io/badge/EXPRESS.JS-fba949">
 	<img alt="Static Badge" src="https://img.shields.io/badge/JAVA-ff6355">
+	<img alt="Static Badge" src="https://img.shields.io/badge/GO-2aa8f2">
 	<img alt="Static Badge" src="https://img.shields.io/badge/SPRING-9c4f96">
-	<img alt="Static Badge" src="https://img.shields.io/badge/JEST-ff6355">
-	<img alt="Static Badge" src="https://img.shields.io/badge/MYSQL-fba949">
-	<img alt="Static Badge" src="https://img.shields.io/badge/MONGODB-fae442">
 	<img alt="Static Badge" src="https://img.shields.io/badge/FIGMA-8bd448">
 </div>
 
